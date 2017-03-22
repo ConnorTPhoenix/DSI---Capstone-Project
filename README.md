@@ -1,2 +1,1 @@
-# Projects
-Data Science Projects
+# DSI Capstone
